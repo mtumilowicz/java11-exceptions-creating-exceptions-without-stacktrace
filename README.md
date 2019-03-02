@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/mtumilowicz/java11-throwing-exceptions-is-expensive.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-throwing-exceptions-is-expensive)
 
-# java11-creating-exceptions-without-stacktrace
+# java11-exceptions-creating-exceptions-without-stacktrace
 
 # preface
 * it could be valuable to take a look at: https://github.com/mtumilowicz/java11-throwing-exceptions-is-expensive

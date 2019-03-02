@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'java11-creating-exceptions-without-stacktrace'
+group 'java11-exceptions-creating-exceptions-without-stacktrace'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 11
