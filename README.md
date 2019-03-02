@@ -1,4 +1,4 @@
-# java11-throwing-exceptions-without-stacktrace
+# java11-creating-exceptions-without-stacktrace
 
 # preface
 * it could be valuable to take a look at: https://github.com/mtumilowicz/java11-throwing-exceptions-is-expensive
@@ -25,7 +25,7 @@
         private native Throwable fillInStackTrace(int dummy);
         ```
 # project description
-We will show how to throw exception without stacktrace:
+We will show how to create exception without stacktrace:
 1. constructor approach
     ```
     class ExceptionWithoutStackTrace extends RuntimeException {
