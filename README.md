@@ -3,7 +3,7 @@
 # java11-exceptions-creating-exceptions-without-stacktrace
 
 # preface
-* it could be valuable to take a look at: https://github.com/mtumilowicz/java11-throwing-exceptions-is-expensive
+* it could be valuable to take a look at: https://github.com/mtumilowicz/java11-exceptions-throwing-exceptions-is-expensive
 * we could create exception without stacktrace by:
     * using dedicated constructor
         ```
