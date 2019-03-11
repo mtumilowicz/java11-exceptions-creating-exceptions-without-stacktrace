@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/mtumilowicz/java11-creating-exceptions-without-stacktrace.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-exceptions-creating-exceptions-without-stacktrace)
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-exceptions-creating-exceptions-without-stacktrace.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-exceptions-creating-exceptions-without-stacktrace)
 
 # java11-exceptions-creating-exceptions-without-stacktrace
 
